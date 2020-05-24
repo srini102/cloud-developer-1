@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha -r ts-node/register src/**/*.tests.ts",
     "dev": "ts-node-dev --respawn --transpileOnly ./src/server.ts",
-    "tsc": "tsc"  
+    "tsc": "tsc"
   },
   "repository": {
     "type": "git",
